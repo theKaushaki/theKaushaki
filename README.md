@@ -53,7 +53,7 @@
 
 ---
 
-## 📜 Mad Genius Manifesto
+## 📜 My Mad Manifesto
 1. Every dataset hides a conspiracy.  
 2. Outliers aren’t mistakes — they’re messages.  
 3. **If your model isn’t unstable, you’re not trying hard enough.**  
